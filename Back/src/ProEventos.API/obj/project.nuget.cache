@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "NHQSuW78SHLi8jowxZPof3HLwQ/4UoA4irpec8/85u7O5r6qb2nGyGmvkryswum+chPZ3TkXpd1mmHKyD1nSCw==",
+  "dgSpecHash": "0Hkmdggi1IdCE+okrGk/vxtstrvAlIbAQqGOeL+HmcY8WHqDvwxaA7wCKg91m/t+qUS0jvlANoIM6lbQG+eaew==",
   "success": true,
-  "projectFilePath": "C:\\Users\\lucas.costa\\Desktop\\Projetos Curso DotNet\\ProEventos\\Back\\src\\ProEventos.API\\ProEventos.API.csproj",
+  "projectFilePath": "C:\\Users\\lucas.costa\\Desktop\\Projetos Curso DotNet\\GIT\\ProEventos\\Back\\src\\ProEventos.API\\ProEventos.API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\lucas.costa\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
     "C:\\Users\\lucas.costa\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
